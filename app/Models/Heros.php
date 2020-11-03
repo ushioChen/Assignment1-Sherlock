@@ -2,14 +2,7 @@
 
 namespace App\Models;
 
-/*
- * Mock travel destination data.
- * Note that we don't have to extend CodeIgniter's model for now
- */
-
-class Places {
-
-    //mock data : an array of records
+class Heros {
     protected $data = [
         '1' => [
             'id' => 1,
